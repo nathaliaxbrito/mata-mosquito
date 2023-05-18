@@ -6,3 +6,11 @@ Jogo onde você deve matar todos os mosquitos enquanto o countdown estiver rodan
 
 <br/>
 Pagina inicial do jogo, onde selecionamos o nível de dificuldade e temos um botão para iniciar.
+
+<hr/>
+<strong>Game Over</strong>
+
+![image](https://github.com/nathaliaxbrito/mata-mosquito/assets/114596345/8f86e6b1-36e0-4716-8ac5-13fce7e270c2)
+
+<br/>
+Caso não consiga matar todos os mosquitos no tempo estabelecido teremos o "Game Over" e um botão para reiniciar o game.
