@@ -34,8 +34,8 @@ Caso consiga vencer o jogo, será direcionado a esta página, onde também temos
 <hr/>
 
 
-<hr>
+
 <strong>Deploy:</strong>
 
 https://646615c3512f8006aa97654a--gregarious-cactus-353610.netlify.app/index.html
-</hr>
+
