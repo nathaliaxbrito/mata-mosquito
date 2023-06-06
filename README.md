@@ -26,7 +26,7 @@ Caso não consiga matar todos os mosquitos no tempo estabelecido teremos o "Game
 Caso consiga vencer o jogo, será direcionado a esta página, onde também temos um botão de reiniciar que irá redireciná-lo para a página inicial do jogo.
 
 <hr/>
-<strong>Tecnologias implementadas:</strong>
+<strong>Tecnologias usadas:</strong>
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
